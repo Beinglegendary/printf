@@ -174,6 +174,6 @@ Function That Returns The Amount Of Indetifiers.
 
 # Authors
 
-UWABOR COLLINS
+UWABOR COLLINS and MBAZU DANIEL
  
  # End
