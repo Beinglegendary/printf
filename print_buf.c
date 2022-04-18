@@ -6,6 +6,8 @@
  * @nbuf: number of bytes to print
  * Return: number of bytes printed.
  */
+
+// another single line comment
 int print_buf(char *buf, unsigned int nbuf)
 {
 	return (write(1, buf, nbuf));
