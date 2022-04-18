@@ -8,8 +8,6 @@
  */
 
 
-//  single line comment
-
 int ev_print_func(const char *s, int index)
 {
 	print_t pr[] = {
